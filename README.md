@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vasco Fonseca
-- 👀 I’m interested in learn and develop new projects
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning and develop new projects
+- 🌱 I’m currently working as a software engineer
+
 - 📫 How to reach me: 
     Email: vasco.cacofonseca@gmail.com
     LinkedIn: https://www.linkedin.com/in/vascofonseca1/
